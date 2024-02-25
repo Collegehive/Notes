@@ -31,8 +31,3 @@
 === "Primary and Secondary" 
 
   <iframe src="https://www.youtube.com/embed?playlist=NOQmvKPCzuA,bQ_6MOYnkfc,t4QF8Ppi8qc" width="800" height="450" frameborder="0"></iframe>  
-=== "Income statement"
-
-  <iframe src="https://www.youtube.com/embed?playlist=lxB4tI50pDg,a4QHb7ivPFI,wXkB22pUpxk" width="800" height="450" frameborder="0"></iframe>
-
-
