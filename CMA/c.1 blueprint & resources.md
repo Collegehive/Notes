@@ -1,22 +1,26 @@
 # Blueprints and Resources
 
-## Blueprint for Exam
 
-| MSE Blue Print | Marks |
-|----------------|------|
-| Cost sheet     | 5M   |
-| Stock level    |   5M   |
-| Economic Order Quantity           |     5M |
-| Theory (unit 1)| 5M     |
-| Break Even Point           |   5M   |
-| Element of cost|     5M |
-| Income statement (marginal and absorption costing with closing and opening stock and over absorption and under absorption) | 10M |
-| FIFO & LIFO    |   10M   |
-| Weighted average & Simple average |   10M   |
-| Labour Cost control (theory) |   10M   |
-| Primary & Secondary OverHeads distribution (no simultaneous equation) | 15M |
+## CMA Blueprint For End-Sem
 
-## Resources Post-mid Sem
+| Section | Marks |
+|---------|-------|
+| Section A |5 Marks Each |
+| 1. (a&b) Management & Reporting (Theory) - Self-Study |5 Marks |
+| 2. a) Flexible budget or cash budget (Practical) |5 Marks |
+| 2. b)  Labor Cost - (Theory) | 5 Marks|
+| 3. a)  Marginal costing - (Practical) | 5 Marks|
+| 3. b) Comparative or Common Size or Trend Analysis - (Interpretation Important) | 5 Marks|
+| Section B | 10 Marks Each|
+| 4. a) Financial Statement Analysis - Comparative or Common Size - (Practical) |10 Marks |
+| 4. b) Flexible budget or cash budget - (Theory)|10 Marks |
+| 5. a) Financial Statement Analysis - Ratio Analysis - (All Ratios) (Practical) |10 Marks |
+| 5. b) Flexible budget or cash budget - (Practical) | 10 Marks|
+| Section C |15 Marks |
+| 6. Cash Flow Statement (4 to 6 adjustment) | 15 Marks| 
+
+
+## Resources For End Sem
 
 === "Flexible Budget"
     <iframe src="https://www.youtube.com/embed/AbOdkZxiUX8&fs=1" width="800" height="450" allowfullscreen="allowfullscreen"
@@ -36,6 +40,24 @@
         msallowfullscreen="msallowfullscreen" 
         oallowfullscreen="oallowfullscreen" 
         webkitallowfullscreen="webkitallowfullscreen" frameborder="0"></iframe>
+
+## Blueprint for Exam
+
+| MSE Blue Print | Marks |
+|----------------|------|
+| Cost sheet     | 5M   |
+| Stock level    |   5M   |
+| Economic Order Quantity           |     5M |
+| Theory (unit 1)| 5M     |
+| Break Even Point           |   5M   |
+| Element of cost|     5M |
+| Income statement (marginal and absorption costing with closing and opening stock and over absorption and under absorption) | 10M |
+| FIFO & LIFO    |   10M   |
+| Weighted average & Simple average |   10M   |
+| Labour Cost control (theory) |   10M   |
+| Primary & Secondary OverHeads distribution (no simultaneous equation) | 15M |
+
+
 
 ## Resources Pre-mid Sem
 
