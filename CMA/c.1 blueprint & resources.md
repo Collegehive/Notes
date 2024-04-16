@@ -16,8 +16,28 @@
 | Labour Cost control (theory) |   10M   |
 | Primary & Secondary OverHeads distribution (no simultaneous equation) | 15M |
 
+## Resources Post-mid Sem
 
-## Resources
+=== "Flexible Budget"
+    <iframe src="https://www.youtube.com/embed/AbOdkZxiUX8&fs=1" width="800" height="450" allowfullscreen="allowfullscreen"
+        mozallowfullscreen="mozallowfullscreen" 
+        msallowfullscreen="msallowfullscreen" 
+        oallowfullscreen="oallowfullscreen" 
+        webkitallowfullscreen="webkitallowfullscreen" frameborder="0"></iframe> 
+=== "Cash Flow Statement"
+    <iframe src="https://www.youtube.com/embed?playlist=x6lYMtmQfYk,ggLTWmkeotM,I1tsNKbJWaY&fs=0" width="800" height="450" allowfullscreen="allowfullscreen"
+        mozallowfullscreen="mozallowfullscreen" 
+        msallowfullscreen="msallowfullscreen" 
+        oallowfullscreen="oallowfullscreen" 
+        webkitallowfullscreen="webkitallowfullscreen" frameborder="0"></iframe>
+=== "Ratio Analysis"
+    <iframe src="https://www.youtube.com/embed?playlist=PLabr9RWfBcnox9lThV6F4xKGDR9cswec0&fs=0" width="800" height="450" allowfullscreen="allowfullscreen"
+        mozallowfullscreen="mozallowfullscreen" 
+        msallowfullscreen="msallowfullscreen" 
+        oallowfullscreen="oallowfullscreen" 
+        webkitallowfullscreen="webkitallowfullscreen" frameborder="0"></iframe>
+
+## Resources Pre-mid Sem
 
 === "Stock Levels"
     <iframe src="https://www.youtube.com/embed?playlist=kuTBkXJAu90,rTzQLYRxa9I,1X_MYLPa38I,-Ma5d-4uZnE,uQ1iiOi-urY&fs=1" width="800" height="450" allowfullscreen="allowfullscreen"
