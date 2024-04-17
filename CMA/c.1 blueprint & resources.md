@@ -1,4 +1,4 @@
-# Blueprints and Resources
+# Blueprints and Videos
 
 
 ## CMA Blueprint For End-Sem
