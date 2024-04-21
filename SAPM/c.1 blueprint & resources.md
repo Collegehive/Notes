@@ -15,20 +15,12 @@
         msallowfullscreen="msallowfullscreen" 
         oallowfullscreen="oallowfullscreen" 
         webkitallowfullscreen="webkitallowfullscreen" frameborder="0"></iframe>
-=== "Covariance and Correlation of 2 securities"
-    <iframe src="https://www.youtube.com/embed?playlist=__yk_-Pj6V0&fs=1" width="800" height="450" allowfullscreen="allowfullscreen"
-        mozallowfullscreen="mozallowfullscreen" 
-        msallowfullscreen="msallowfullscreen" 
-        oallowfullscreen="oallowfullscreen" 
-        webkitallowfullscreen="webkitallowfullscreen" frameborder="0"></iframe>
-
 === "Calculation of portfolio return and risk of more than 1 securities"
     <iframe src="https://www.youtube.com/embed?playlist=Lh5wepSdPRY&fs=1" width="800" height="450" allowfullscreen="allowfullscreen"
         mozallowfullscreen="mozallowfullscreen" 
         msallowfullscreen="msallowfullscreen" 
         oallowfullscreen="oallowfullscreen" 
         webkitallowfullscreen="webkitallowfullscreen" frameborder="0"></iframe>
-
 === "Expected rate of return"
     <iframe src="https://www.youtube.com/embed?playlist=c1IdHdUaQvg&fs=1" width="800" height="450" allowfullscreen="allowfullscreen"
         mozallowfullscreen="mozallowfullscreen" 
@@ -46,4 +38,5 @@
         mozallowfullscreen="mozallowfullscreen" 
         msallowfullscreen="msallowfullscreen" 
         oallowfullscreen="oallowfullscreen" 
-        webkitallowfullscreen="webkitallowfullscreen" frameborder="0"></iframe>                        
+        webkitallowfullscreen="webkitallowfullscreen" frameborder="0"></iframe>            
+        
