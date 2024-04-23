@@ -28,6 +28,12 @@
         msallowfullscreen="msallowfullscreen" 
         oallowfullscreen="oallowfullscreen" 
         webkitallowfullscreen="webkitallowfullscreen" frameborder="0"></iframe> 
+=== "Cash Budget"
+    <iframe src="https://www.youtube.com/embed?playlist=wRRM0EWGBYU&fs=1" width="800" height="450" allowfullscreen="allowfullscreen"
+        mozallowfullscreen="mozallowfullscreen" 
+        msallowfullscreen="msallowfullscreen" 
+        oallowfullscreen="oallowfullscreen" 
+        webkitallowfullscreen="webkitallowfullscreen" frameborder="0"></iframe>         
 === "Cash Flow Statement"
     <iframe src="https://www.youtube.com/embed?playlist=x6lYMtmQfYk,ggLTWmkeotM,I1tsNKbJWaY&fs=1" width="800" height="450" allowfullscreen="allowfullscreen"
         mozallowfullscreen="mozallowfullscreen" 
